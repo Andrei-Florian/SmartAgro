@@ -1,4 +1,6 @@
 # Overview
+![Cover Image](https://hackster.imgix.net/uploads/attachments/919679/cover_image_6KGqMaL8dy.JPG?auto=compress%2Cformat&w=900&h=675&fit=min)
+
 Farming land is a precious resource, it is necessary for the survival of the modern society. But so many challenges are faced in agricultural farming, you need to get the temperature, humidity and sunlight right for the crop, and then you have to ensure that nothing destroys the crop.
 
 The concept smart farming has been taking shape in the recent years, the idea of remotely overseeing the state of your crop. But this revolution in farming comes at a great cost, most available systems are too expensive to implement on small farms and the systems may not cover large farms.
